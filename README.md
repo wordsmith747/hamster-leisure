@@ -17,6 +17,7 @@ The class cards displays different levels of subscription ranging from a free ti
 ![Hamster-Leisure](screenshots/Hamster-LeisureBottom2.png)
 
 ## Mobile version
+The responsive design of the mobile version lets the user view the app on different screen sizes. The sample screenshots are listed below.
 
 <img src="screenshots/screenshots-mobile/Hamster-Leisure-Top1_Mobile1.png"   alt="Hamster-Leisure-Mobile" width="300"/>
 <img src="screenshots/screenshots-mobile/Hamster-LeisureBottom1_Mobile2.png" alt="LeisureBottom1" width="300"/>
