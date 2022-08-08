@@ -8,7 +8,7 @@ The project was created with bootstrap classes to achieve a responsive design to
 ![Hamster-Leisure](screenshots/Hamster-Leisure-Top1.png)
 ## Functionality
 The app features a carusel class sliding across the site, showing the users' testimonials.
-The class cards displays different levels of subscription ranging from free tiers to paid ones.
+The class cards displays different levels of subscription ranging from a free tier to paid tiers.
 &nbsp;
 
 ![Hamster-Leisure](screenshots/Hamster-LeisureBottom1.png)
