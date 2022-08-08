@@ -16,6 +16,14 @@ The class cards displays different levels of subscription ranging from a free ti
 
 ![Hamster-Leisure](screenshots/Hamster-LeisureBottom2.png)
 
+## Mobile version
+![Hamster-Leisure-Mobile](screenshots/screenshots-mobile/Hamster-Leisure-Top1_Mobile1.png)
+&nbsp;
+
+![Hamster-Leisure-Mobile](screenshots/screenshots-mobile/Hamster-LeisureBottom1_Mobile2.png)
+&nbsp;
+
+![Hamster-Leisure-Mobile](screenshots/screenshots-mobile/Hamster-LeisureBottom1_Mobile3.png)
 
 
 
