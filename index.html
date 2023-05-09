@@ -207,10 +207,12 @@
 
       <div class="row justify-content-center">
         <div class="col-md-2">
-          <button type="button" class="btn btn-lg btn-outline-dark"><i class="fa-brands fa-apple"></i> Download</button>
+          <button id="js-1" type="button" class="btn btn-lg btn-outline-dark"><i class="fa-brands fa-apple"></i> Download</button>
         </div>
         <div class="col-md-2">
           <button type="button" class="btn btn-lg btn-outline-light"><i class="fa-brands fa-google-play"></i> Download</button>
+          <button id="js-2"type="button" class="btn btn-lg btn-outline-light"><i class="fa-brands fa-google-play"></i>
+            Download</button>
         </div>
       </div>
     </div>
@@ -230,6 +232,16 @@
       <p>© Copyright HamsterLeisure</p>
     </div>
   </footer>
+
+  <script>
+    document.getElementById("js-1").onclick = function jsFunction() {
+      document.getElementById("js-1").style.backgroundColor = "Purple"
+
+    }
+    document.getElementById("js-2").onclick = function jsFunction() {
+      document.getElementById("js-2").style.backgroundColor = "Green";
+    }
+  </script>
 </body>
 
 </html>
